@@ -22,8 +22,6 @@ namespace TaskJson
             public int id { get; set; }
             public string value { get; set; }
         }
-
-
         static void Main(string[] args)
         {
             string testsF = File.ReadAllText("tests.json");
@@ -32,11 +30,21 @@ namespace TaskJson
             string valuesF = File.ReadAllText("values.json");
             var valuesJ = JsonConvert.DeserializeObject<values[]>(valuesF);
 
-
-            //testsJ.Where(x => x.id == 41).First().id = ;
-
-            //Console.WriteLine(testsJ);
-
+            //var testList = new tests();
+            //var valuesList = new values();
+            
+            foreach (var value in valuesJ)
+            {
+                foreach (var test in testsJ)
+                {
+                    if(value.id == test.id)
+                    {
+                        test.values = value.value;
+                    }
+                }
+            }
+            string result = JsonConvert.SerializeObject(testsJ);
+            File.WriteAllText("res.json", result);
         }
     }
 }

@@ -9,3 +9,14 @@ C:\Users\forst\OneDrive\Рабочий стол\ТЗ\TaskJson\TaskJson\bin\Debug
 C:\Users\forst\OneDrive\Рабочий стол\ТЗ\TaskJson\TaskJson\obj\Debug\TaskJson.csproj.CopyComplete
 C:\Users\forst\OneDrive\Рабочий стол\ТЗ\TaskJson\TaskJson\obj\Debug\TaskJson.exe
 C:\Users\forst\OneDrive\Рабочий стол\ТЗ\TaskJson\TaskJson\obj\Debug\TaskJson.pdb
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\bin\Debug\TaskJson.exe.config
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\bin\Debug\TaskJson.exe
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\bin\Debug\TaskJson.pdb
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\obj\Debug\TaskJson.csproj.AssemblyReference.cache
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\obj\Debug\TaskJson.csproj.SuggestedBindingRedirects.cache
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\obj\Debug\TaskJson.csproj.CoreCompileInputs.cache
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\obj\Debug\TaskJson.csproj.CopyComplete
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\obj\Debug\TaskJson.exe
+C:\Users\forst\OneDrive\Рабочий стол\TaskJson\TaskJson\obj\Debug\TaskJson.pdb
